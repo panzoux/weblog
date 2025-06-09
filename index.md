@@ -2,4 +2,5 @@
 title: Welcome to my blog!
 ---
 
-todo: change repository name...
+https://panzoux.github.io/weblog/
+[panzoux note](https://panzoux.github.io/weblog/)
