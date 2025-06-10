@@ -2,5 +2,6 @@
 title: Welcome to my blog!
 ---
 
-https://panzoux.github.io/weblog/
-[panzoux note](https://panzoux.github.io/weblog/)
+<https://panzoux.github.io/weblog/>
+
+<https://github.com/panzoux/weblog/wiki>
