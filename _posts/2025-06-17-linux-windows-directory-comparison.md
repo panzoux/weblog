@@ -7,7 +7,7 @@
 | /bin | C:¥Windows¥System32 | 基本的な実行ファイルを置く |
 | /sbin | - | システム管理用の実行ファイル（管理者のみ実行）を格納 |
 | /etc | - | システム全体の設定ファイル(テキスト形式)をまとめたディレクトリ。Windowsには統一された設定用フォルダは存在せず、設定はレジストリや各プログラムごと(C:¥WindowsやC:¥ProgramDataなど) |
-| /lib | C:¥Windows¥System32` 等 | システムやアプリが利用する共有ライブラリ`.so`を格納。Windowsでは動的ライブラリ(DLL)は主に`System32`や各アプリのインストール先フォルダ |
+| /lib | C:¥Windows¥System32 等 | システムやアプリが利用する共有ライブラリ`.so`を格納。Windowsでは動的ライブラリ(DLL)は主に`System32`や各アプリのインストール先フォルダ |
 | /opt | C:¥Program Files | オプション(追加)ソフトウェアをインストールするディレクトリ。Windowsでは通常、サードパーティ製アプリケーションはProgram FilesまたはProgram Files (x86) |
 | /tmp | C:¥Windows¥Temp や %TEMP% | 一時ファイル用。WindowsではC:¥Windows¥Temp |
 | /usr | - | OS付属のプログラムや追加インストールされたソフトのファイル郡を収める階層ディレクトリ。Windowsは明確な対応なし |
