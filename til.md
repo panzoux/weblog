@@ -96,3 +96,8 @@ aiビルダーの感情系は言語指定がある、英訳してる？copilot�
 ccdをcur+binにするには、virtualclonecdでマウント、cdmanipulatorでイメージ化。image->imageの直接変換は見つからず、なるほどー。
 白サターン用outrun、ver1.102か、サターンリングの型番末尾がK。手元のはver1.005…
 
+### 20250629
+蜜香屋のプリン、確かにプリンだけど、上の🍠は別に、カラメルはさつまいも蜜のよう。。
+
+### 20250630
+githubのreadme.mdで同リポジトリの画像を出す方法。imgタグでsrc="./image.png"とするだけ
