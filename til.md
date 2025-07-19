@@ -184,3 +184,12 @@ powershellで環境変数の多重展開
 
 ### 20250717
 powershellで動的switch
+
+### 20250718
+頭上半分が痛いし吐き気がしてどんな態勢になっても楽にならない頭痛、冷や汗が出て寒気がひどい
+アマージ、偏頭痛の薬
+
+### 20250719
+ps1 multimov tateyoko minpanel bugfix
+ps1 multimov read movie height.width from explorer!
+岩波文庫　ギリシア・ローマ神話
