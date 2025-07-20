@@ -200,3 +200,4 @@ powershell enum
 ps1 multimov movcountmaxを画面が埋まるよう自動調整
 ps1 multimov read movie height.width from explorer!
 ps1 multimov get-movieresolutionにより横長縦長動画がどちらが多いかで敷き詰め方式を自動判定
+Januaryはヤヌスが天上の門衛で年を開けるから
