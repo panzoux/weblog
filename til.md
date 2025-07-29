@@ -237,4 +237,12 @@ powershellでサービス登録
 本当にためになるゲームの歴史📕
 robocopyでフォルダ配下比較
 
+### 20250729
+近くに知られざるDYDO自販機を朝散歩で発見、しかも安い！コーヒー買って帰ったら乳分が固まってた。安いってこういうこと？
+plantuml+saltでguiのモックアップ(wireframeというらしい)作成。右寄せや中央寄せできないとか、部品少ないとか癖があるので、やや厳しい
+plantumlいつの間にかgraphvizやら何やらなしで、jarとgraphvizのサブセットで動くようになったらしい。ポータブルでよい
+pomeraでqrコード、自作連続qr読込でiPhone取込！
+pomeraでqrコード表示できるなら、pomeralinuxでも表示したい。vim+skkがあるfbtermで。でgit, libjpeg-dev入れて、fbvをgit cloneしてmake。fbtermでpng表示できた！あとはqrencode
+fbtermにこだわらなければ、コンソールターミナルでfviですぐpng表示できた。。(Xならもっとラクなのは秘密)
+本当にためになるゲームの歴史　読了。ゲーム産業がいかに儲けの仕組みを様々展開してきたかを、平易な文章で解説。読みやすくあっという間。
 
