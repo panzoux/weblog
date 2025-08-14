@@ -305,3 +305,12 @@ powershellでフォルダ同士の配下ファイル比較
 
 ### 20250813
 🩼掃除、膝ついたままできる腕の筋トレ、風呂掃除
+
+### 20250814
+🩼自販機でダイドーコーヒーlabペットボトル
+🩼食器片付け
+🩼サラダチキン入りチキンラーメン作成
+ps1 multimov mov.maxcountが小さい時に一部動画がウインドウ制御対象にならないバグ修正。変数指定誤り
+ps1 multimov 行数または列数が1の場合は行列のmaxcountではなくmov.maxcountを尊重
+ps1 multimov 次のn個を再生する機能追加。
+ps1 get-cyclicsubarray()をduck.aiで作成
