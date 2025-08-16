@@ -314,3 +314,7 @@ ps1 multimov mov.maxcountが小さい時に一部動画がウインドウ制御�
 ps1 multimov 行数または列数が1の場合は行列のmaxcountではなくmov.maxcountを尊重
 ps1 multimov 次のn個を再生する機能追加。
 ps1 get-cyclicsubarray()をduck.aiで作成
+
+### 20250815
+ホスト名をコマンドラインで変更
+
