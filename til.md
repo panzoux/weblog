@@ -586,3 +586,12 @@ vscodeで複数ファイル参照してのコード生成
 
 ### 20251028
 vscodeでgithub copilotのagent mode。
+
+### 20251029
+ps1 oracleアクセスを作成。copilotはmanagedとか出したけど、いまのodp.netにそんなんないやんけ！
+plsqlをpowershellに変換
+
+### 20251030
+vscodeでsqldeveloper。昨日oracle19c instant入れといてよかった。
+azure障害とかでvscodeのcopilot補完が効かなかったので、手動+インラインcopilot(はなぜか動いた)で作ったらサクサクできた。aiで試行錯誤より速い。使いこなせてないのか、混ぜこぜがいい感じなのか
+
