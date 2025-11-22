@@ -176,4 +176,8 @@ DYDO CAFE lab 世界一のバリスタ監修　香りのBLACK ホット。香り
 ### 20251119
 google antigtavity gemini3.0でhtmlapp procedure作成、githubでリリース
 
+### 20251120
+antigr timeschedule 最初のプロンプトがしっかりしてるとなかなか良い。でも修正はボロボロにしては戻しを繰り返し。トークン不足で途中でやめたり、大部分を無意味に消したり、怪しい
 
+### 20251121
+antigr timeschedule chromeのローカルhtmlからの保存できない問題を人間が調べてaiが回避、あとganttのスクロール問題について構造修正claudeエライ
