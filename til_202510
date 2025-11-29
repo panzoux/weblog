@@ -195,7 +195,7 @@ yaziファイラ。なるほど速いっぽい。hackgen nf必要、色々入れ
 kiroであふのtxt読み込ませて計画立てさせてみた。めっちゃ詳細になった
 
 ### 20251126
-vscode+githubcopilot htmpl
+vscode+githubcopilot htmlprocedure, htmltimeschedule をgitへ。あげると楽かも。戻しやすいし、aiがしくじっても戻しやすい
 
 ### 20251127
 kiroで実装、都度テストサイクル。なんか動いてるけど、どうできてるのかあまり見えない。。
