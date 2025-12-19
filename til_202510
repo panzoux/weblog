@@ -280,6 +280,7 @@ cs twf /検索のmigemo対応！
 
 ### 20251218
 cs twf 外部コマンドからのpipetoaction対応！fzf使える！
+cs twf コピー時の上書きダイアログ
 
 ### 20251219
 cs twf historyダイアログ、インクリメンタルmigemoフィルタリング！めっちゃ手触り良い
