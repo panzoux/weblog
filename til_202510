@@ -285,3 +285,9 @@ cs twf コピー時の上書きダイアログ
 ### 20251219
 cs twf historyダイアログ、インクリメンタルmigemoフィルタリング！めっちゃ手触り良い
 
+### 20251220
+爽プリンアイス
+cs twf gemini cd on exit , bat ps1 wrapper
+
+### 20251221
+cs twf bugfix 選択マークがソート後ファイル名でなくてリストの位置で保持してる。リストにismarkedを持つように。未評価…
