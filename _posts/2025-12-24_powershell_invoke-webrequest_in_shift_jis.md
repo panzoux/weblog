@@ -1,4 +1,4 @@
-# Shift_JIS救出作戦 — PowerShellで文字化けを解くワンライナー術）
+# ネットのShift_JISファイルをPowerShellで読む - 文字化けしないワンライナー
 
 現場でよく見る症状：HTTPで取得したCSVが文字化けする。PowerShellのWebCmdletが受信時に誤ったエンコーディングでデコードしてしまうため、元のShift_JISデータを正しく取り戻す手法を3つの実例で示します。各サンプルに「何をするか」「利点」「注意点」を簡潔に解説します。
 
@@ -6,7 +6,7 @@
 
 ---
 
-### サンプルA（既に .Content を使ってしまった場合の復元ハック）
+### サンプルA（既に .Content を使った場合の復元ハック）
 ```ps1
 $syukujitsu=[System.Text.Encoding]::GetEncoding("Shift_JIS").GetString([System.Text.Encoding]::GetEncoding("ISO-8859-1").GetBytes((Invoke-WebRequest 'https://www8.cao.go.jp/chosei/shukujitsu/syukujitsu.csv').Content))
 $syukujitsu
