@@ -296,3 +296,18 @@ cs twf bugfix 選択マークがソート後ファイル名でなくてリスト
 paticier couchi なめらかプリン
 mdv markdown viewer
 ps psfzf with parameter
+
+### 20251223
+virtualbox ubuntu24。普通にできなくて3回やり直し。光学ドライブにメディア入れるのは仮想マシン作ってから
+
+### 20251224
+cs twf u untu dotnet8, cmigemoを入れて、twfをgit cloneしてbuild。動きおったで。。
+cs twf linuxのterminalではいまいち挙動が違うのでコンソール出力は最低限というかtui中は基本なし、コマンドがwindows exe前提をなくし、guiを起動想定からcui起動して戻るように
+
+### 20251225
+cs twf タブ機能実装！できるんや。。
+
+### 20251226
+cs twf job management system 操作中のロックがなくなり、別タブ切替やジョブキャンセルができる。。！しかし欲をかいてgit commitせず改良しようとして失敗、ai復旧大変だった。。元に戻らず良い感じに直そうとして名前適当に変えるからconfigきかずに調査やら何やら。。
+
+
