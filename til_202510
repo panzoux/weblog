@@ -316,5 +316,18 @@ cs twf タスクパネルの出力とログ整理
 ### 20251228
 あたかのカレーパン
 しめ鯖と数の子のレモン味。うまい
+cs twf imageview実装16色
 
+### 20251229
+ln
+cs twf imageview256prototype、24bitcolor
+cd twf 24bit内蔵化失敗。呼び出して表示までできるけど、元画面にもどらない
 
+### 20251230
+skr itg
+政宗屋、相合餅の餅
+cs twf 24bit版、外部ツール化。これなら動く。gdiじゃなくてsharpimageを互換性のため採用
+
+### 20251231
+今年最後のだし巻き玉子
+cs consoleimgview ツール化、キー受付、前後ファイル移動、alternate buffer
